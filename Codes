@@ -1,0 +1,13 @@
+
+
+*Opening / Creating a folder using Terminal*
+cd - to go to the folder / cd Documents
+ls - list all the files / ls
+mkdir - creating folder / mkdir webdevPort
+touch - creating a file / touch index.html
+
+* opening sublime *
+
+subl . 
+
+
